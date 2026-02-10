@@ -15,4 +15,4 @@ Observe Your Virtual Network within Network Watcher
 
 <img width="568" height="595" alt="image" src="https://github.com/user-attachments/assets/0c0b026c-00c3-4760-be36-cb4c88deac09" />
 
-<img width="955" height="136" alt="image" src="https://github.com/user-attachments/assets/7b070337-e20b-4db1-bb06-426cd005f181" />
+<img width="955" height="136" alt="image" src="https://github.com/user-attachments/assets/802aad76-5fbf-43f2-8aa3-48d88f0c5140" />
